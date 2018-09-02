@@ -10,7 +10,7 @@ https://andros-spica.github.io/EAA2018_simulation/
 
 **Authors**  
 Angourakis, Andreas  
-Agnese Fusaro  
+Fusaro, Agnese  
 Martínez Ferreras, Verónica  
 Gurt, Josep M.
 
