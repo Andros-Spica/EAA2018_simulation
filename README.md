@@ -1,23 +1,22 @@
-# At the crossroads of data. Presenting the CAMOTECCER relational database of archaeological ceramics from Central Asia
+# A game of… chairs, Musical Chairs. A theory-building Agent-Based approach to agro-pastoral landscapes in Eurasia
 
-A presentation for European Archaeological Association meeting - **EAA 2018** (6-8/09/2018), Session #312 - *Ancient pottery in Central Asia: large scale perspective on the production systems and the cultural interactions*
+A presentation for European Archaeological Association meeting - **EAA 2018** (6-8/09/2018), Session #672 - *CAA @ EAA: Computational Models in Archaeology*
+
+https://www.e-a-a.org/EAA2018
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
-
-https://andros-spica.github.io/EAA2018_ceramics/
+https://andros-spica.github.io/EAA2018_simulation/
 
 **Authors**  
 Angourakis, Andreas  
+Agnese Fusaro  
 Martínez Ferreras, Verónica  
-Gurt, Josep M.  
-Ariño Gil, Enrique  
-Pidaev, Shakir, R.  
+Gurt, Josep M.
 
 **Abstract**  
-We present the structure and current state of the relational database developed during the CAMOTECCER project (HAR2012-32653, 2013-17). This database integrates archaeological and archaeometric data of more than 700 ceramic individuals from several sites in the Surkhan Darya region (ancient northern Bactria), Uzbekistan dated from the Hellenistic to the Islamic period. It documents an individual sample in space (site, sector, and context or stratigraphic unit) and time (through the context dating), being flexible enough to accept different levels of certainty and precision of the archaeological information available. For instance, sites can be located by both geographical coordinates and regional-to-local recursive subdivisions (i.e., Uzbekistan, Surkhan Darya region, South Surkhan Darya region, Bas Surkhan, Termez). To the date, we considered three types of archaeometric data: (a) geochemical composition given by X-ray fluorescence (XRF); (b) petrographic (thin-section microscopy) and mineralogical (X-ray diffraction or XRD) composition and structure; and (d) measurements and classification regarding the shape of ceramic individuals. The four types of archaeometric data can be registered independently but remain connected, to each other and archaeological data, through the unique reference of ceramic individuals.
-We illustrate with different case studies (ceramics from Termez, Kampyr Tepe, Mirzakultepe, and Zar Tepe) the possible applications of this database structure for the study of archaeological ceramics. More concretely, this example shows a comparison of statistical analyses of geochemical and petrographic data, separately and together, aiming to detect systematic differences between pottery productions along the period considered.  
+We present the latest development of a seven-year effort in experimenting and generating theory that could help explain different land use patterns around water sources in arid environments. This work was developed within the case study 5, ‘oasis construction in Central Asia’, of the former SimulPast project. Using Agent-Based simulation models, we progressively put together mechanisms hypothesized to be relevant factors in shaping the balance of farming and herding land use within arid environments. The core mechanism is the intermittent competition between sedentary and mobile stakeholders, which we assume can happen during a part of the annual cycle (e.g., winter). Thus, the analogy with the children game, Musical Chairs. Through versioning models, we can observe the simulated consequences of each mechanism, and their interaction, under a wide variety of conditions.
+After a brief overview of the two previous models, Musical Chairs and Nice Musical Chairs, we will present the latest model, NomadFrontier. This latter model introduces the effects of (i) spatial relations, (ii) herding territorial marks, and (iii) a multi-level institutional structure, comprising corporate groups and political alliances between them. We review the main implications evidenced by the three models: (a) competition creates a bias favoring farming land use, (b) herding stakeholders tend to consolidate in smaller, more independent, political formations, and (c) the investment in territorial marks in the pastoral landscape is an important strategy for herding stakeholders. Last, we compare the simulation experiments with our assessment of several historical and archaeological case studies in Eurasia.  
 
 **Keywords**  
-archaeometry; pottery; ancient Bactria; database; statistics
-
+agent-based model; competition; land use; agro-pastoral
