@@ -2,11 +2,11 @@
 
 A presentation for European Archaeological Association meeting - **EAA 2018** (6-8/09/2018), Session #672 - *CAA @ EAA: Computational Models in Archaeology*
 
-https://www.e-a-a.org/EAA2018
+Conference web page: https://www.e-a-a.org/EAA2018
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
-https://andros-spica.github.io/EAA2018_simulation/
+Slides: https://andros-spica.github.io/EAA2018_simulation/
 
 **Authors**  
 Angourakis, Andreas  
