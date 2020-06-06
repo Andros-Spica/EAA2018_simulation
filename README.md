@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/147084889.svg)](https://zenodo.org/badge/latestdoi/147084889)
+reStructedText
+
 # A game of… chairs, Musical Chairs. A theory-building Agent-Based approach to agro-pastoral landscapes in Eurasia
 
 A presentation for European Archaeological Association meeting - **EAA 2018** (6-8/09/2018), Session #672 - *CAA @ EAA: Computational Models in Archaeology*
